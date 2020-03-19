@@ -7,6 +7,4 @@
 	
 	<bean id="helloTest" class="test.Hello"/>
 	<bean id="helloTest2" class="test.Hello2"/>
-	<bean id="helloTest3" class="test2.Hello3"/>
-	
 </beans>
