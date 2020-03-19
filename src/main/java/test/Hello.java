@@ -3,6 +3,6 @@ package test;
 public class Hello {
 	
 	public void sendHello() {
-		System.out.println("Hello sdShinZzang~!~!");
+		System.out.println("Hello sdShin23Zzang~!~!");
 	}
 }
